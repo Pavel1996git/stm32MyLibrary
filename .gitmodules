@@ -1,3 +1,6 @@
 [submodule "MyLibrary/timerDelay"]
 	path = MyLibrary/timerDelay
 	url = git@github.com:Pavel1996git/stm32pointTimer.git
+[submodule "MyLibrary/TimerDelay"]
+	path = MyLibrary/TimerDelay
+	url = git@github.com:Pavel1996git/stm32pointTimer.git

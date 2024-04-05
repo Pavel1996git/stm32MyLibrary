@@ -4,3 +4,12 @@
 [submodule "MyLibrary/TimerDelay"]
 	path = MyLibrary/TimerDelay
 	url = git@github.com:Pavel1996git/stm32pointTimer.git
+[submodule "MyLibrary/Sim800"]
+	path = MyLibrary/Sim800
+	url = git@github.com:Pavel1996git/Sim800Stm328.git
+[submodule "MyLibrary/stm32_swv"]
+	path = MyLibrary/stm32_swv
+	url = git@github.com:Pavel1996git/stm32_swv.git
+[submodule "MyLibrary/stm32_sd_operation"]
+	path = MyLibrary/stm32_sd_operation
+	url = git@github.com:Pavel1996git/stm32_SD_operation.git
